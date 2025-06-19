@@ -1,0 +1,4 @@
+syntax: glob
+.vs/*
+WindowsProject1/x64/*
+x64/*
